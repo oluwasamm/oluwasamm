@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Html Css Bootstrap**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML,CSS and JS**
 
 - 📫 How to reach me **samuelakinwale73@gmail.com**
 
