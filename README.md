@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **on Website Layout**
 
-- 🌱 I’m currently learning **Html Css Bootstrap**
+- 🌱 I’m currently learning **Html Css Bootstrap React**
 
-- 💬 Ask me about **HTML,CSS and JS**
+- 💬 Ask me about **HTML,CSS,JS and python**
 
 - 📫 How to reach me **samuelakinwale73@gmail.com**
 
